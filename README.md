@@ -132,13 +132,30 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.
 If you use this dataset in your research, please cite the following:
 
 ```
-@dataset{microsaccade_benchmark_2025,
-  title={Benchmarking Microsaccade Recognition with Event Cameras: A Novel Dataset and Evaluation},
+
+@dataset{microsaccade_dataset_2025,
+  title={Microsaccade Recognition with Event Cameras: A Novel Dataset},
   author={Waseem Shariff and Timothy Hanley and Maciej Stec and Hossein Javidnia and Peter Corcoran},
   year={2025},
-  url={https://huggingface.co/datasets/waseemshariff/Microsaccade-benchmark},
+  doi={https://doi.org/10.57967/hf/6965},
+publisher={Hugging Face},
   note={Presented at BMVC 2025}
 }
+@inproceedings{Shariff_2025_BMVC,
+author    = {Waseem Shariff and Timothy Hanley and Maciej Stec and Hossein Javidnia and Peter Corcoran},
+title     = {Benchmarking Microsaccade Recognition with Event Cameras: A Novel Dataset and Evaluation},
+booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},
+publisher = {BMVA},
+year      = {2025},
+url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_288/paper.pdf}
+}
+@article{microsaccade_benchmarking_2025,
+  title={Benchmarking Microsaccade Recognition with Event Cameras: A Novel Dataset and Evaluation},
+  author={Shariff, Waseem and Hanley, Timothy and Stec, Maciej and Javidnia, Hossein and Corcoran, Peter},
+  journal={arXiv preprint arXiv:2510.24231},
+  year={2025}
+}
+
 ```
 
 ## Contact
